@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Centered within 66dp safe zone (21 to 87) -->
+    <!-- Briefcase Body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,42 C30.34,42 29,43.34 29,45 L29,73 C29,75.2 30.8,77 33,77 L75,77 C77.2,77 79,75.2 79,73 L79,45 C79,43.34 77.66,42 76,42 L65,42 L65,37 C65,34.24 62.76,32 60,32 L48,32 C45.24,32 43,34.24 43,37 L43,42 L32,42 Z M47,37 C47,36.45 47.45,36 48,36 L60,36 C60.55,36 61,36.45 61,37 L61,42 L47,42 L47,37 Z" />
+
+    <!-- Briefcase accent line / buckle in Gold/Yellow #FFC107 -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M29,52 L79,52 L79,56 L61,56 C61,57.66 59.66,59 58,59 L50,59 C48.34,59 47,57.66 47,56 L29,56 Z" />
+
+    <!-- Search Magnifying Glass overlay (Badge) -->
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M65,55 A13,13 0 1,0 65,81 A13,13 0 1,0 65,55 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M65,58 A9,9 0 1,0 65,76 A9,9 0 1,0 65,58 Z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M65,61 A6,6 0 1,0 65,73 A6,6 0 1,0 65,61 Z" />
+    <!-- Magnifying handle -->
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M73,74 L81,82 C82,83 83.5,83 84.5,82 C85.5,81 85.5,79.5 84.5,78.5 L76.5,70.5 Z" />
+</vector>

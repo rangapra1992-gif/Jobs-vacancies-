@@ -1,0 +1,6 @@
+{
+  "name": "රැකියා සොයමු",
+  "description": "ශ්රී ලංකාවේ රැකියා පහසුවෙන් සොයා ගැනීමට සහ අයදුම් කිරීමට නවීන Android යෙදුම.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
